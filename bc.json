@@ -343,7 +343,7 @@
         {
             "slug": "11-Nested_list",
             "title": "11-Nested_list",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Nested_list",
             "translations": [
                 "es",
@@ -354,7 +354,7 @@
         {
             "slug": "12-Map_a_list",
             "title": "12-Map_a_list",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Map_a_list",
             "translations": [
                 "es",
@@ -365,7 +365,7 @@
         {
             "slug": "12.1-more_mapping",
             "title": "12.1-more_mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/12.1-more_mapping",
             "translations": [
                 "es",
@@ -376,7 +376,7 @@
         {
             "slug": "12.2-Map_function_inside_variable",
             "title": "12.2-Map_function_inside_variable",
-            "done": false,
+            "done": true,
             "path": "exercises/12.2-Map_function_inside_variable",
             "translations": [
                 "es",
@@ -387,7 +387,7 @@
         {
             "slug": "12.3-Map_data_types",
             "title": "12.3-Map_data_types",
-            "done": false,
+            "done": true,
             "path": "exercises/12.3-Map_data_types",
             "translations": [
                 "es",
@@ -409,7 +409,7 @@
         {
             "slug": "12.5-Yes_and_no",
             "title": "12.5-Yes_and_no",
-            "done": false,
+            "done": true,
             "path": "exercises/12.5-Yes_and_no",
             "translations": [
                 "es",

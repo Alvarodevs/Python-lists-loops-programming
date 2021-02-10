@@ -7,4 +7,4 @@ def average_result(item):
         num = num + i
         result = num/len(item)
     return result 
- print(average_result(my_list))
+print(average_result(my_list))
